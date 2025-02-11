@@ -1,0 +1,93 @@
+#input{
+    width: 405px;
+    height: 510px;
+    position: absolute;
+    display: flex;
+    background-color:transparent;
+    color: black;
+    top: 110px;
+    left: 10px;
+    backdrop-filter: blur(5px);
+    border-bottom: 2px solid rgba(218, 218, 218, 0.397);
+}
+
+#input{
+    background: linear-gradient(90deg, transparent(255,255,255, .4),transparent);
+    color: rgb(97, 97, 97);
+    box-shadow: 0 0 6px 2px;
+    border-radius: 10px;
+}
+
+ 
+
+.inputs{
+    border-radius: 5px;
+    height: 35px;
+    width: 120px;
+    font:garamond;
+    font-size: large;
+  }
+  
+  #checkindiv{
+     text-align: center;
+     position: absolute;
+     font-size: large;
+     font:garamond;
+     color:white;
+     left: 10px;
+     top: 20px;
+  }
+ 
+  #checkoutdiv{
+     text-align: center;
+     position: absolute;
+     font-size: large;
+     font:garamond;
+     color:white;
+     left: 139px;
+     top: 20px;
+  }
+ 
+  #roomquantdiv{
+     text-align: center;
+     position: absolute;
+     font-size: large;
+     font:garamond;
+     color:white;
+     left: 267px;
+     top: 20px;
+  }
+ 
+  #adultquantdiv{
+     text-align: center;
+     position: absolute;
+     font-size: large;
+     font:garamond;
+     color:white;
+     left: 10px;
+     top: 80px;
+  }
+ 
+  #childquantdiv{
+     text-align: center;
+     position: absolute;
+     font-size: large;
+     font:garamond;
+     color:white;
+     left: 10pxpx;
+     top: 50px;
+  }
+ 
+  #containerinput{
+    width: 385px;
+    height: 220px;
+    background-color:  rgb(19, 141, 117);
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    border-radius: 10px;
+ 
+  }
+ 
+ 
+ 
